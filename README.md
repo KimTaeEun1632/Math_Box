@@ -1,2 +1,4 @@
-### 수학 계산을 위한 코드를 제공하는 프로젝트
-1. calculator.py : 계산기에 있는 기능들을 제공하는 모
+# Open mind project
+솔직한 질문을 통해 상대와 더 가까워지세요!
+
+# https://openmind-life.vercel.app
