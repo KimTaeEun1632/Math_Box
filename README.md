@@ -12,10 +12,9 @@
 자유롭게 질문과 답변을 통해 소통하는 플랫폼 입니다.
 
 ---
-<div align="center"> 
-  - <h3>🌐Demo <a href="https://openmind-life.vercel.app">배포사이트</a></h3>
+- <h3>🌐Demo <a href="https://openmind-life.vercel.app">배포사이트</a></h3>
   
-  - <h3 >📚 STACKS</h3>
+- <h3 >📚 STACKS</h3>
     <p>
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -27,17 +26,13 @@
     </p>
   
   
-  - <h3>🤲협업 툴</h3>
+- <h3>🤲협업 툴</h3>
     <p>
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
       <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </p>
-</div>
-
-
-
 
 # 프로젝트 소개 
 
@@ -46,3 +41,24 @@
 - **프로젝트 내용**
 <img width="60%" src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/4ded4f12-eac6-4ba4-9563-985aa5358f36" />
 <img width="60%" src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/d2e134c2-c9f5-4581-80d3-5f584364e4ee" />
+
+
+<table>
+  <tbody>
+    <tr>
+      <th colspan="2">이름</th>
+      <th>담당</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/42131b57-8296-42a9-ab37-45ecdbfb22bb"width="100px; alt=""/></td>
+      <td><a href="https://github.com/aoooec">팀장 : 유아름 </a></td>
+      <td>
+        답변하기 페이지
+        <br>
+        피드 페이지 
+        <br>
+        회의 진행
+      </td>
+    </tr>
+  </tbody>
+</table>
